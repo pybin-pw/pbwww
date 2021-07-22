@@ -272,7 +272,7 @@ var WWW = (function(undefined) {
 
 $(function() {
 
-    var api = API('https://ptpb.pw/');
+    var api = API('https://pybin.pw/');
     var app = WWW();
 
     function paste_submit(event) {
